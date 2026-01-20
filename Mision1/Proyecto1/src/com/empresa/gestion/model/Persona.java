@@ -16,7 +16,7 @@ public class Persona {
         return nombre;
     }
 
-    public void setNombre(String nombre) {
+    public void setNombre(String nombre) { // Void es que no retorna nada
         this.nombre = nombre;
     }
 
